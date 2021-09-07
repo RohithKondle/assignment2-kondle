@@ -45,3 +45,27 @@ Try these Four Delicious Food items which are listed below
 
 > "Arise,awake and donot stop until the goal is reached." -*Swami Vivekananda*<Br>
 > "Truth can be stated in a thousand different ways, yet each one can be true." -*Swami Vivekananda*
+
+---
+
+## Depth First Search
+
+>Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+
+[Click Here to Know More](https://en.wikipedia.org/wiki/Depth-first_search#:~:text=Depth%2Dfirst%20search%20(DFS),along%20each%20branch%20before%20backtracking.)
+
+```
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+```
+[Code Source](https://cp-algorithms.com/graph/depth-first-search.html)
