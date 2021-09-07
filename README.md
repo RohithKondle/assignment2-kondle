@@ -38,3 +38,10 @@ Try these Four Delicious Food items which are listed below
 | Fish | Vizag | Rs 1000 |
 | Bamboo Chicken | lambasinghi | Rs 450 |
 | prawns | vijayawada | Rs 900 |
+
+---
+
+## Pithy Quotes
+
+> "Arise,awake and donot stop until the goal is reached." -*Swami Vivekananda*<Br>
+> "Truth can be stated in a thousand different ways, yet each one can be true." -*Swami Vivekananda*
