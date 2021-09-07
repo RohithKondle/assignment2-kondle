@@ -24,4 +24,4 @@ Goa is located in south **India** and is famous for wonderful **beaches** with g
 * Beach wears 
 * Trekking set
 
-[Quick link for AboutMe](AboutME.md)
+[Quick link for AboutMe](AboutMe.md)
