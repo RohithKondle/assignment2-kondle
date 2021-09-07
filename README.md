@@ -15,14 +15,14 @@ Goa is located in south **India** and is famous for wonderful **beaches** with g
 3. Reached the destination
 
 
-## List of items to bring
-* Camping tents
-* Grill Chicken
-* Drinks:
-  * Mocktails
-  * Beers
-* Beach wears 
-* Trekking set
+* List of items to bring:
+  * Camping tents
+  * Grill Chicken
+  * Drinks:
+    * Mocktails
+    * Beers
+  * Beach wears 
+  * Trekking set
 
 [Quick link for AboutMe](AboutMe.md)
 
