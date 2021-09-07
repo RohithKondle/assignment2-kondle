@@ -25,3 +25,16 @@ Goa is located in south **India** and is famous for wonderful **beaches** with g
 * Trekking set
 
 [Quick link for AboutMe](AboutMe.md)
+
+---
+
+## Try these Delicious items:
+
+Try these Four Delicious Food items which are listed below
+
+| Food/drink item | location | Expected Price |
+| --- | --- | --- |
+| Chicken Biryani | Hyderabad | Rs 500 |
+| Fish | Vizag | Rs 1000 |
+| Bamboo Chicken | lambasinghi | Rs 450 |
+| prawns | vijayawada | Rs 900 |
